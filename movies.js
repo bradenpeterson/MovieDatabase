@@ -7,11 +7,7 @@ const idInput = document.getElementById("search-input");
 const findButton = document.getElementById("search-button");
 const cardsContainer = document.getElementById("cards-container");
 const resultsInfo = document.getElementById("results-info");
-const pagesContainer = document.getElementById("pages-container");
-const currentPageSpan = document.getElementById("current-page");
-const totalPagesSpan = document.getElementById("total-pages");
-const prevButton = document.getElementById("prev-button");
-const nextButton = document.getElementById("next-button");
+
 
 // State variables
 let currentPage = 1;
