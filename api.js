@@ -1,4 +1,5 @@
-const apiKey = "c538b1b1526b2fa7caa322fbba0a95ac";
+// API key is loaded from config.js - see config.template.js for setup
+// const apiKey is defined in config.js
 
 // Base URL
 const api = "https://api.themoviedb.org/3/";
